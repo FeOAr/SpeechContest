@@ -256,7 +256,7 @@ void SpeechManager::displayRecord() {
 			{
 				cout << awardType[n / 3] << "编号：" << this->Record[i][n]
 					<< " 姓名: " << this->Record[i][n + 1]
-					<< " 得分：" << this->Record[i][n + 2] << " " << endl;
+					<< " 得分：" << this->Record[i][n + 2] << endl;
 			}
 		}
 	}

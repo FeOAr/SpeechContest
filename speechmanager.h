@@ -8,7 +8,7 @@ class SpeechManager
 {
 public:
 	SpeechManager();  /*构造函数*/
-	void showMenu();
+	void showMenu();  /*临时显示*/
 	void exitSystem();
 	void initPlayers();
 	void creatPlayers();

@@ -8,7 +8,6 @@ int main() {
 	while (true)
 	{
 		SMObject.showMenu();
-		//SMObject.show();
 		cout << "ÇëÊäÈëÑ¡Ôñ£º" << endl;
 		cin >> choice;
 		switch (choice)
